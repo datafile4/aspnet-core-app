@@ -1,0 +1,7 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/datafile4/.nuget/packages"
+    ]
+  }
+}
